@@ -14,6 +14,22 @@
         { id: 4, name: 'Step 4' },
         { id: 5, name: 'Step 5' }
     ];
+		//c.setSection1Visible = function() {
+    //     gform.setValue('current_section', '1');
+    // };
+		//c.setSection2Visible = function() {
+    //     gform.setValue('current_section', '2');
+    // };
+		//c.setSection3Visible = function() {
+    //     gform.setValue('current_section', '3');
+    // };
+		//c.setSection4Visible = function() {
+    //     gform.setValue('current_section', '4');
+    // };
+		//c.setSection5Visible = function() {
+    //     gform.setValue('current_section', '5');
+    // };
+	
     // 动态生成 setSectionXVisible 方法
     c.sections.forEach(function(section) {
         c['setSection' + section.id + 'Visible'] = function() {
@@ -46,14 +62,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-29 07:40:28</sys_created_on>
         <sys_id>e927c4fdc371aa1079b2770d050131be</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Catalog Item Sections</sys_name>
         <sys_package display_value="Demo2" source="x_1755685_demo2">5a857729c331aa1079b2770d05013160</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo2">5a857729c331aa1079b2770d05013160</sys_scope>
         <sys_update_name>sp_widget_e927c4fdc371aa1079b2770d050131be</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 04:46:35</sys_updated_on>
+        <sys_updated_on>2025-06-16 04:39:50</sys_updated_on>
         <template><![CDATA[<div>
   <div class="btn-group btn-breadcrumb">
     <a ng-click="c.setSection1Visible()" class="btn btn-default"><i class="glyphicon glyphicon-home"></i></a>
