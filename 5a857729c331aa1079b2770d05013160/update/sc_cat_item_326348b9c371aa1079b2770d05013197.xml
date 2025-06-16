@@ -66,21 +66,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-29 07:26:47</sys_created_on>
         <sys_id>326348b9c371aa1079b2770d05013197</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name>Catalog Item Sections Domo</sys_name>
         <sys_package display_value="Demo2" source="x_1755685_demo2">5a857729c331aa1079b2770d05013160</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo2">5a857729c331aa1079b2770d05013160</sys_scope>
         <sys_update_name>sc_cat_item_326348b9c371aa1079b2770d05013197</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2025-06-04 09:07:56</sys_updated_on>
+        <sys_updated_on>2025-06-16 04:40:43</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>36</version>
+        <version>37</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>

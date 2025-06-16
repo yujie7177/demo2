@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Catalog Item Sections Domo">326348b9c371aa1079b2770d05013197</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-04 09:07:55</sys_created_on>
+        <sys_id>99649b6bc371a21079b2770d050131af</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mobile Devices Set.Catalog Item Sections Domo</sys_name>
+        <sys_package display_value="Demo2" source="x_1755685_demo2">5a857729c331aa1079b2770d05013160</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo2">5a857729c331aa1079b2770d05013160</sys_scope>
+        <sys_update_name>io_set_item_99649b6bc371a21079b2770d050131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-04 09:07:55</sys_updated_on>
+        <variable_set display_value="Mobile Devices Set">e84d3f3241411300964ff05369414e3e</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo2">5a857729c331aa1079b2770d05013160</application>
+        <file_path/>
+        <instance_id>cb5328c13b386e94c55a348aa4e45a91</instance_id>
+        <instance_name>dev319956</instance_name>
+        <name>io_set_item_99649b6bc371a21079b2770d050131af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Catalog Item Sections Domo">326348b9c371aa1079b2770d05013197</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-04 09:07:55</sys_created_on><sys_id>99649b6bc371a21079b2770d050131af</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Mobile Devices Set.Catalog Item Sections Domo</sys_name><sys_package display_value="Demo2" source="x_1755685_demo2">5a857729c331aa1079b2770d05013160</sys_package><sys_policy/><sys_scope display_value="Demo2">5a857729c331aa1079b2770d05013160</sys_scope><sys_update_name>io_set_item_99649b6bc371a21079b2770d050131af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-04 09:07:55</sys_updated_on><variable_set display_value="Mobile Devices Set">e84d3f3241411300964ff05369414e3e</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>28758292</payload_hash>
+        <record_name>Mobile Devices Set.Catalog Item Sections Domo</record_name>
+        <reverted_from/>
+        <source>fc6b8586c3b9ea1079b2770d0501315a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-04 09:07:56</sys_created_on>
+        <sys_id>41b453abc371a21079b2770d050131b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1973a327a630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-04 09:07:56</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>45b453ab5071a21006d143aa0bdd25b2</update_guid>
+        <update_guid_history>45b453ab5071a21006d143aa0bdd25b2:28758292</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mobile Devices Set.Catalog Item Sections Domo">3b9a04a7c3ca265079b2770d050131cb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-16 04:40:43</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>930772538e754191bf924b3d58f2c341</sys_id>
+        <sys_metadata>99649b6bc371a21079b2770d050131af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Devices Set.Catalog Item Sections Domo</sys_name>
+        <sys_package display_value="Demo2" source="x_1755685_demo2">5a857729c331aa1079b2770d05013160</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo2">5a857729c331aa1079b2770d05013160</sys_scope>
+        <sys_scope_delete display_value="">2b098e7853484a8c877b6936d6591044</sys_scope_delete>
+        <sys_update_name>io_set_item_99649b6bc371a21079b2770d050131af</sys_update_name>
+        <sys_update_version display_value="io_set_item_99649b6bc371a21079b2770d050131af">41b453abc371a21079b2770d050131b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-16 04:40:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
